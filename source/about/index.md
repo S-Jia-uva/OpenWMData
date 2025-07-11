@@ -1,9 +1,9 @@
 ---
-title: About OpenCogData
-date: 2023-12-03 00:00:00
+title: About OpenWMData
+date: 2025-11-07 00:00:00
 ---
 
-OpenCogData is a database of publicly available cognitive task datasets. To browse the database, click on the links above or use the search bar at the top-right of this page.
+OpenWMData is a database of publicly available datasets from experiments examining working memory. To browse the database, click on the links above or use the search bar at the top-right of this page.
 
 <h2 style="margin: 1em 0em 0.5em 0em">What is the goal of OpenCogData?</h2>
 The goal of this project is to make it easier for researchers to find and use publicly available cognitive task data as part of research. There's already so much data out there that can be used to test new hypotheses or models; calculate effect sizes for power analysis; and estimate meta-analytic effects across studies.

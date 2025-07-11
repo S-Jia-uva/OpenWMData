@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: OpenCogData
+title: OpenWMData
 subtitle: ''
-description: A collection of publicly available cognitive task datasets
+description: A collection of publicly available working memory datasets
 keywords:
-author: Data Science & Sharing Team @ National Institute of Mental Health
+author: Dr William Ngiam, University of Adelaide
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://nimh-dsst.github.io/OpenCogData/
+url: https://williamngiam.github.io/OpenWMData
 permalink: :post_title/
 permalink_defaults:
 pretty_urls:
