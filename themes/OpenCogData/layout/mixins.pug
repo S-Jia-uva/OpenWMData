@@ -12,7 +12,11 @@ mixin make_post(item, is_detail)
 			if item.paper_url
 				a(href= url_for(item.paper_url))= "[Paper] "
 			if item.data_url
-				a(href= url_for(item.data_url))= " [Data]"
+				a(href= url_for(item.data_url))= " [Data] "
+			if item.task_url
+				a(href= url_for(item.task_url))= " [Task Code] "
+			if item.analysis_url
+				a(href = url_for(item.analysis_url))= " [Analysis Code] "
 		if is_detail
 			.post-content
 				p!= item.content

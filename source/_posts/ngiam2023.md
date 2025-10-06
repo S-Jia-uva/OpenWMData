@@ -9,6 +9,7 @@ authors:
 journal: J. Exp. Psychol. Gen.
 paper_url: https://doi.org/10.1037/xge0001479
 data_url: https://osf.io/wjr7u
+task_url: https://osf.io/wjr7u
 tags: 
 - "task: whole-report"
 ---
