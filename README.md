@@ -1,10 +1,14 @@
-# OpenCogData
+# OpenWMData
 
-A collection of publicly available cognitive task datasets maintained by the [Data Science & Sharing Team](https://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health.
+A (under construction) collection of publicly available **working memory datasets**. This project is hosted on GitHub Pages using [Hexo](https://hexo.io/docs/) and [Anatolo](https://github.com/Lhcfl/hexo-theme-anatolo).
 
-This project is hosted on GitHub Pages using [Hexo](https://hexo.io/docs/) and [Anatolo](https://github.com/Lhcfl/hexo-theme-anatolo).
+## Maintainers
 
-## Submit a dataset
+The following people have contributed to curating datasets and maintain the WM Data hub:
+
+[Dr William Ngiam](https://github.com/WilliamNgiam) (Lead)
+
+## Submit a dataset (under construction)
 
 The aim of this project is to catalogue all open datasets involving cognitive tasks (e.g., Stroop, delay discounting, 2-arm bandits). The inclusion criteria for datasets are:
 
@@ -30,3 +34,5 @@ If you'd like to preview OpenCogData locally (for example, in the process of pro
 6. Visit `localhost:4000/OpenCogData` in your browser to preview the project
 
 If you do not already have Hexo installed, please see their [installation page](https://hexo.io/docs/#Installation).
+
+This website was forked from a template created by the [Data Science & Sharing Team](https://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health.

@@ -4,7 +4,7 @@ block site_title
     !=  __('Tags') + " · " + config.title
 
 block description
-    - var desc = page.desc || strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150);
+    - var desc = page.desc || strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 200);
     meta(name="description", content=desc)
 
 block content
