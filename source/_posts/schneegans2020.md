@@ -12,7 +12,8 @@ data_url: https://osf.io/buxp9/files
 analysis_url: https://osf.io/buxp9/files
 tags:
 - "task: delayed reproduction"
-- "stimulus: colour or orientation"
+- "stimulus: colour"
+- "stimulus: orientation"
 - "data-level: trial-level nested in subject-level groups"
 - "data-format: .mat"
 - "data-dictionary: not available"
