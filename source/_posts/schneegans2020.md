@@ -11,11 +11,11 @@ paper_url: https://doi.org/10.1073/pnas.2004306117
 data_url: https://osf.io/buxp9/files
 analysis_url: https://osf.io/buxp9/files
 tags:
-- task: delayed reproduction
-- stimulus: colour or orientation
-- data-level: trial-level nested in subject-level groups
-- data-format: .mat
-- data-dictionary: not available
+- "task: delayed reproduction"
+- "stimulus: colour or orientation"
+- "data-level: trial-level nested in subject-level groups"
+- "data-format: .mat"
+- "data-dictionary: not available"
 - secondary data analysis
 - computational modeling
 librarian: Candice Koolhaas
