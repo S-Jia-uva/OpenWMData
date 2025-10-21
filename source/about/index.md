@@ -36,7 +36,8 @@ This project is currently hosted and maintained by Dr William Ngiam (School of P
 
 The following people have contributed to curating datasets:
 
-* Candice Koolhaas, University of Massachusetts
+* [Candice Koolhaas, University of Massachusetts](https://github.com/candicekoolhaas)
+* Yong Hoon Chung, Dartmouth University
 
 <h2 style="margin: 1em 0em 0.5em 0em">How can I add a dataset?</h2>
 Please see the <a href="../contribute">contributing</a> page.
