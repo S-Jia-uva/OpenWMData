@@ -1,4 +1,5 @@
-title: Differential trajectories of memory quality and guessing across sequential reports from working memory (2019)
+---
+title: Peters et al. (2019)
 subtitle: Differential trajectories of memory quality and guessing across sequential reports from working memory
 date: 2019-07-01 
 authors:
@@ -10,11 +11,12 @@ journal: Journal of Vision
 paper_url: https://doi.org/10.1167/19.7.3
 data_url: https://osf.io/a4tnk/files
 tags:
-- task: delayed reproduction 
-- stimulus: Gabor patch
-- data-level: trial-level
-- data-format: .txt or .mat
-- data-dictionary: available
+- "task: delayed reproduction"
+- "stimulus: orientation"
+- "stimulus: Gabor patch"
+- "data-level: trial-level"
+- "data-format: .txt or .mat"
+- "data-dictionary: available"
 - confidence
 - mixture modeling
 librarian: Candice Koolhaas
