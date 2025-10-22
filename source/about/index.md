@@ -34,9 +34,10 @@ The scope of this project is to catalogue all open datasets involving cognitive 
 <h2 style="margin: 1em 0em 0.5em 0em">Who is involved in OpenWMData?</h2>
 This project is currently hosted and maintained by Dr William Ngiam (School of Psychology, Adelaide University).
 
-The following people have contributed to curating datasets:
+The following early-career researchers have contributed to curating datasets:
 
 * Candice Koolhaas, University of Massachusetts
+* Yong Hoon Chung, Dartmouth University
 
 <h2 style="margin: 1em 0em 0.5em 0em">How can I add a dataset?</h2>
 Please see the <a href="../contribute">contributing</a> page.

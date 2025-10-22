@@ -11,7 +11,7 @@ journal: Journal of Vision
 paper_url: https://doi.org/10.1167/19.7.3
 data_url: https://osf.io/a4tnk/files
 tags:
-- "task: delayed reproduction"
+- "task: continuous whole-report"
 - "stimulus: orientation"
 - "stimulus: Gabor patch"
 - "data-level: trial-level"
