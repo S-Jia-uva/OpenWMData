@@ -1,10 +1,10 @@
 # Blog config
 keywords:
 author: William Ngiam
-description: A collection of publicly available<br>working memory datasets
+description: A collection of publicly available working memory datasets
 
 # icon
-favicon: /images/favicon.webp
+favicon: /images/logo.webp
 avatar: /images/logo.webp
 logo_dir: /images/logo.webp
 logo_style: width:175px;
