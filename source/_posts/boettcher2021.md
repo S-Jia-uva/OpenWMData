@@ -11,11 +11,11 @@ journal: Science Advances
 paper_url: https://doi.org/10.1126/sciadv.abe8212
 data_url: https://zenodo.org/records/4471943
 tags:
-- task: delayed reproduction
-- stimulus: orientation
-- data-level: trial-level 
-- data-format: .cnt
-- data-dictionary: available
+- "task: delayed reproduction"
+- "stimulus: orientation"
+- "data-level: trial-level" 
+- "data-format: .cnt"
+- "data-dictionary: available"
 - continuous report
 - eeg
 librarian: Candice Koolhaas
