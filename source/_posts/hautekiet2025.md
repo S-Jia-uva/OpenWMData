@@ -1,6 +1,6 @@
 ---
 title: Hautekiet et al. (2025) # Author et al. (year) e.g. Ngiam et al. (2023)
-subtitle: Susceptibility to Visual Interference in Working Memory: Different Results Depending on the Prioritization Mode? # Title of the paper.
+subtitle: "Susceptibility to Visual Interference in Working Memory: Different Results Depending on the Prioritization Mode?" # Title of the paper.
 date: 2025-04-07 # Publication date of the author YYYY-MM-DD
 authors:
 - Hautekiet, Caro
