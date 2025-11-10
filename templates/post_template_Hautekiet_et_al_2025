@@ -1,0 +1,27 @@
+---
+title: Hautekiet et al. (2025) # Author et al. (year) e.g. Ngiam et al. (2023)
+subtitle: Susceptibility to Visual Interference in Working Memory: Different Results Depending on the Prioritization Mode? # Title of the paper.
+date: 2025-04-07 # Publication date of the author YYYY-MM-DD
+authors:
+-Hautekiet, Caro
+-Niklaus,  Marcel
+-Oberauer, Klaus
+journal: Journal of Experimental Psychology: Human Perception and Performance # Journal that paper is published in
+paper_url: https://doi.org/10.1037/xhp0001315 # The full DOI link of the paper (e.g. https://doi.org/10.1037/xge0001479)
+data_url: https://osf.io/a8ufc/  # URL to data repository; preferably OSF repo link (e.g. https://osf.io/wjr7u)
+tags:
+- task: delayed reproduction task # First tag should be type of experiment task
+- stimulus: colour # Second tag should be the type of stimulus (if relevant)
+- stimulus: shape 
+- data-level: trial-level # Third tag should be the level of data (trial-level, subject-level, group-level)
+- data-format: .RData # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
+- visual-interference
+- prioritization
+- focus-of-attention 
+
+
+librarian: Shichen Jia # Add your name here as the data librarian if you are not the author!
+---
+
+<!-- Insert paper abstract below -->
+Among several items held in working memory, an item can be prioritized by focusing attention on it. Some studies found that an item in the focus of attention is better protected from interference than other items in working memory. Others have found that a prioritized item is particularly vulnerable to interference. These two groups of studies have used different ways to study information in the focus of attention in working memory. Protection for the prioritized item has been found when a retro-cue has been used to direct attention to this item, whereas particular vulnerability has been observed for the last-presented item of a serially presented list, which is often assumed to remain in the focus of attention during the retention interval. As these two methods might represent distinct forms of prioritization, we examined whether these two prioritization modes result in opposing results. To do so, we sequentially presented four to-be-memorized colored shapes and probed memory with a recall task. We varied the presentation of interfering visual stimuli following the last list item. In half of the trials, we indicated which item was most likely to be probed using a retro-cue (Experiments 1 and 5) or a precue (Experiments 2–4). We observed some evidence for the last-presented item being particularly vulnerable to visual interference but only in specific task situations. Generally, we observed that memory items were equally vulnerable to visual interference regardless of their priority state in working memory and regardless of the prioritization mode used.
