@@ -1,25 +1,25 @@
 ---
 title: Hautekiet et al. (2025) # Author et al. (year) e.g. Ngiam et al. (2023)
-subtitle: Susceptibility to Visual Interference in Working Memory: Different Results Depending on the Prioritization Mode? # Title of the paper.
+subtitle: "Susceptibility to Visual Interference in Working Memory: Different Results Depending on the Prioritization Mode?" # Title of the paper.
 date: 2025-04-07 # Publication date of the author YYYY-MM-DD
 authors:
--Hautekiet, Caro
--Niklaus,  Marcel
--Oberauer, Klaus
-journal: Journal of Experimental Psychology: Human Perception and Performance # Journal that paper is published in
+- Hautekiet, Caro
+- Niklaus, Marcel
+- Oberauer, Klaus
+journal: "Journal of Experimental Psychology: Human Perception and Performance" # Journal that paper is published in
 paper_url: https://doi.org/10.1037/xhp0001315 # The full DOI link of the paper (e.g. https://doi.org/10.1037/xge0001479)
 data_url: https://osf.io/a8ufc/  # URL to data repository; preferably OSF repo link (e.g. https://osf.io/wjr7u)
 tags:
-- task: delayed reproduction task # First tag should be type of experiment task
-- stimulus: colour # Second tag should be the type of stimulus (if relevant)
-- stimulus: shape 
-- data-level: trial-level # Third tag should be the level of data (trial-level, subject-level, group-level)
-- data-format: .RData # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
-- visual-interference
+- "task: retro-cue paradigm" # First tag should be type of experiment task
+- "task: cued recall"
+- "stimulus: colour" # Second tag should be the type of stimulus (if relevant)
+- "stimulus: shape" 
+- "data-level: trial-level" # Third tag should be the level of data (trial-level, subject-level, group-level)
+- "data-format: .RData" # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
+- visual interference
 - prioritization
-- focus-of-attention 
-
-
+- focus of attention
+- retro-cue
 librarian: Shichen Jia # Add your name here as the data librarian if you are not the author!
 ---
 
